@@ -1,2 +1,9 @@
-# ハイパーパラメータ．学習ダイナミクス．学習パラメータ．
+# ハイパーパラメータ．学習ダイナミクス．学習パラメータ
 https://mega.nz/folder/9vkQ1YKR#6I0sez2GiGcQw6pG1ya5cQ
+
+・test02_alpha_1_hidden_size_10.zip
+・test02_alpha_1_hidden_size_30.zip
+・test02_alpha_1_hidden_size_50.zip
+・test02_alpha_1_hidden_size_100.zip
+・test02_alpha_1_hidden_size_500.zip
+・test02_alpha_1_hidden_size_1000.zip
